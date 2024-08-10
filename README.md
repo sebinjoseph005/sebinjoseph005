@@ -24,6 +24,9 @@
   <a href="https://instagram.com/sebinjoseph05" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebinjoseph05" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/feed/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -70,3 +73,6 @@
 <h3 align="left">GitHub Activity Graph:</h3>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sebin Joseph's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph05&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" /></a>
 
+---
+
+![Snake animation](https://github.com/sebinjoseph05/sebinjoseph05/blob/output/github-contribution-grid-snake.svg)
