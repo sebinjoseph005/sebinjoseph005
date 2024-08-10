@@ -75,4 +75,4 @@
 
 ---
 
-![Snake animation](https://github.com/sebinjoseph05/sebinjoseph05/blob/output/github-contribution-grid-snake.svg)
+
