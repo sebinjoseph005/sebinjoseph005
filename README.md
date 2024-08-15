@@ -55,6 +55,13 @@
 
 ---
 
+<h3 align="left">Days Active Graph:</h3>
+<p align="left">
+  <img align="center" src="https://github-profile-3d-contrib.vercel.app/api?username=sebinjoseph05&theme=radical" alt="3d-contrib" />
+</p>
+
+---
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebinjoseph05&show_icons=true&locale=en&theme=radical" alt="sebinjoseph05" />
@@ -67,12 +74,3 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph05&show_icons=true&locale=en&layout=compact&theme=radical" alt="sebinjoseph05" />
 </p>
-
----
-
-<h3 align="left">GitHub Activity Graph:</h3>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sebin Joseph's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph05&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" /></a>
-
----
-
-
