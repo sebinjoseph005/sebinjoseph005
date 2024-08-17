@@ -72,5 +72,5 @@
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph05&show_icons=true&locale=en&layout=compact&theme=radical" alt="sebinjoseph05" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=radical" alt="sebinjoseph005" />
 </p>
