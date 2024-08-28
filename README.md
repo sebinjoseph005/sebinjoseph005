@@ -54,7 +54,7 @@
 
 <h3 align="left">GitHub Contribution Graph:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sebinjoseph005&theme=radical" alt="GitHub Contribution Graph" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph005&theme=radical" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -71,3 +71,4 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=radical" alt="sebinjoseph005" />
 </p>
+
