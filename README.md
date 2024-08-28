@@ -52,25 +52,22 @@
 
 ---
 
-<h3 align="left">Days Active Graph:</h3>
-<p align="left">
-  <img align="center" src="https://github-profile-3d-contrib.vercel.app/api?username=sebinjoseph05&theme=radical" alt="3d-contrib" />
-</p>
-
----
-
 <h3 align="left">GitHub Contribution Graph:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph05&theme=radical" alt="GitHub Contribution Graph" />
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sebinjoseph005&theme=radical" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebinjoseph05&show_icons=true&locale=en&theme=radical" alt="sebinjoseph05" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebinjoseph005&show_icons=true&locale=en&theme=radical" alt="sebinjoseph005" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebinjoseph05&theme=radical"
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebinjoseph005&theme=radical" alt="sebinjoseph005" />
+</p>
 
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=radical" alt="sebinjoseph005" />
+</p>
