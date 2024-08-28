@@ -18,7 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
   <a href="https://instagram.com/sebinjoseph05" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebinjoseph05" height="30" width="40" />
   </a>
@@ -60,15 +59,18 @@
 
 ---
 
+<h3 align="left">GitHub Contribution Graph:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph05&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebinjoseph05&show_icons=true&locale=en&theme=radical" alt="sebinjoseph05" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebinjoseph05&theme=radical" alt="sebinjoseph05" />
-</p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebinjoseph05&theme=radical"
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=radical" alt="sebinjoseph005" />
-</p>
