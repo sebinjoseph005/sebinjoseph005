@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/sebin_005" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sebin_005?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
+ 
   <a href="https://instagram.com/sebinjoseph05" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
