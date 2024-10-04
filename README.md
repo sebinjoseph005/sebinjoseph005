@@ -25,8 +25,8 @@
 ### 🌟 About Me:
 - 🌱 Currently diving deep into **JavaScript** and all things **Frontend Development**.
 - 👯 Looking to collaborate on **Frontend-based projects** and **open-source contributions**.
-- 🛠️ Skilled in **HTML**, **CSS**, **JavaScript**, **Java**, **C**, **C++**, **Arduino**, and **Figma**.
-- ⚡ Fun fact: I'm a tech enthusiast who enjoys experimenting with new frameworks, but I also have a **soft spot for retro gaming**.
+- 🛠️ working in **HTML**, **CSS**, **JavaScript**, **Java**, **C**, **C++**, **Arduino**, and **Figma**.
+- ⚡ Fun fact: I'm a tech enthusiast who enjoys experimenting with new frameworks, but I also have a **soft spot for slef introspection**.
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt0wN6mcGz8HZG4/giphy.gif" width="200"/>
