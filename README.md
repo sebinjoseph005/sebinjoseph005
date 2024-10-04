@@ -1,73 +1,79 @@
-<h1 align="center">Hi 👋, I'm Sebin Joseph</h1>
-<h3 align="center">A passionate computer science major student from India</h3>
+<h1 align="center">Hi there! 👋 I'm <span style="color:#f05454">Sebin Joseph</span></h1>
+<h3 align="center">🚀 Passionate Computer Science Student | Frontend Enthusiast | Lifelong Learner 🌟</h3>
 
-<p align="left"> 
-  <a href="https://twitter.com/sebin_005" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sebin_005?logo=twitter&style=for-the-badge" alt="sebin_005" />
-  </a> 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/xUPGcI6mFkFx8ikDT6/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="50">
 </p>
 
-- 🌱 I’m currently learning **JavaScript**  
-- 👯 I’m looking to collaborate on **frontend-based projects**  
-- 🤝 I’m looking for help with **frontend development**  
-- 💬 Ask me about **HTML, CSS, JavaScript, C, and Java**  
-- 📫 How to reach me **josephsebin012@gmail.com**  
-- ⚡ Fun fact **I think I am quite optimistic**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/sebinjoseph05" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebinjoseph05" height="30" width="40" />
+<p align="center">
+  <a href="https://twitter.com/sebin_005" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/sebin_005?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/sebin-joseph-594370286/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://instagram.com/sebinjoseph05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/sebin-joseph-594370286/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🌟 About Me:
+- 🌱 Currently diving deep into **JavaScript** and all things **Frontend Development**.
+- 👯 Looking to collaborate on **Frontend-based projects** and **open-source contributions**.
+- 🛠️ Proficient in **HTML**, **CSS**, **JavaScript**, **Java**, **C**, and exploring **React.js** and **Node.js**.
+- ⚡ Fun fact: I'm a tech enthusiast who enjoys experimenting with new frameworks, but I also have a **soft spot for retro gaming**.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200"/>
+</p>
+
+---
+
+### 📫 How to Reach Me:
+- **Email:** josephsebin012@gmail.com
+- **Twitter:** [@sebin_005](https://twitter.com/sebin_005)
+- **Instagram:** [@sebinjoseph05](https://instagram.com/sebinjoseph05)
+- **LinkedIn:** [Sebin Joseph](https://www.linkedin.com/in/sebin-joseph-594370286/)
+
+---
+
+### 🛠️ Languages and Tools:
+
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a> 
 </p>
 
 ---
 
-<h3 align="left">GitHub Contribution Graph:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph005&theme=radical" alt="GitHub Contribution Graph" />
-</p>
+### 🖥️ GitHub Stats & Activity:
 
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebinjoseph005&show_icons=true&locale=en&theme=radical" alt="sebinjoseph005" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebinjoseph005&theme=radical" alt="sebinjoseph005" />
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=radical" alt="sebinjoseph005" />
+<p align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph005&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
