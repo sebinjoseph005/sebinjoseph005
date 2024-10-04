@@ -24,7 +24,7 @@
 ### 🌟 About Me:
 - 🌱 Currently diving deep into **JavaScript** and all things **Frontend Development**.
 - 👯 Looking to collaborate on **Frontend-based projects** and **open-source contributions**.
-- 🛠️ Proficient in **HTML**, **CSS**, **JavaScript**, **Java**, **C**, and exploring **React.js** and **Node.js**.
+- 🛠️ working in **HTML**, **CSS**, **JavaScript**, **Java**, **C**, and exploring more.
 - ⚡ Fun fact: I'm a tech enthusiast who enjoys experimenting with new frameworks, but I also have a **soft spot for retro gaming**.
 
 <p align="center">
