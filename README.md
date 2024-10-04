@@ -7,11 +7,11 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **JavaScript**
-- 👯 I’m looking to collaborate on **frontend-based projects**
-- 🤝 I’m looking for help with **frontend development**
-- 💬 Ask me about **HTML, CSS, JavaScript, C, and Java**
-- 📫 How to reach me **josephsebin012@gmail.com**
+- 🌱 I’m currently learning **JavaScript**  
+- 👯 I’m looking to collaborate on **frontend-based projects**  
+- 🤝 I’m looking for help with **frontend development**  
+- 💬 Ask me about **HTML, CSS, JavaScript, C, and Java**  
+- 📫 How to reach me **josephsebin012@gmail.com**  
 - ⚡ Fun fact **I think I am quite optimistic**
 
 ---
@@ -71,4 +71,3 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=radical" alt="sebinjoseph005" />
 </p>
-
