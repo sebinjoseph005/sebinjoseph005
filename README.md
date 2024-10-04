@@ -36,7 +36,6 @@
 
 ### 📫 How to Reach Me:
 - **Email:** [josephsebin012@gmail.com](mailto:josephsebin012@gmail.com)
-- **Twitter:** [@sebin_005](https://twitter.com/sebin_005)
 - **Instagram:** [@sebinjoseph05](https://instagram.com/sebinjoseph05)
 - **LinkedIn:** [Sebin Joseph](https://www.linkedin.com/in/sebin-joseph-594370286/)
 
