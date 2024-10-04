@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Passionate Computer Science Student | Frontend Enthusiast | Lifelong Learner 🌟</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9q5v3HcGFOQ0gA/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/3oEjI5XjQh6u1NkqG0/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/1iFGx5p5qP4BX4nBB2/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/l2JdU8n1GxVee1w2w/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/xUPGcI6mFkFx8ikDT6/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/3oEjHYdoN8LXw5ZF2Y/giphy.gif" width="50">
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 ### 🌟 About Me:
 - 🌱 Currently diving deep into **JavaScript** and all things **Frontend Development**.
 - 👯 Looking to collaborate on **Frontend-based projects** and **open-source contributions**.
-- 🛠️ working in **HTML**, **CSS**, **JavaScript**, **Java**, **C**, **C++**, **Arduino**, and **Figma**.
-- ⚡ Fun fact: I'm a tech enthusiast who enjoys experimenting with new frameworks, but I also have a **soft spot for slef introspection**.
+- 🛠️ Skilled in **HTML**, **CSS**, **JavaScript**, **Java**, **C**, **C++**, **Arduino**, and **Figma**.
+- ⚡ Fun fact: I'm a tech enthusiast who enjoys experimenting with new frameworks, but I also have a **soft spot for retro gaming**.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt0wN6mcGz8HZG4/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -73,16 +73,16 @@
 
 ---
 
-### 🖥️ GitHub Stats & Activity:
 
-
-
-
+## `GitHub Stats`
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph005&theme=radical" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebinjoseph005&show_icons=true&locale=en&theme=blue-green" alt="sebinjoseph005" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebinjoseph005&theme=blue-green" alt="sebinjoseph005" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="sebinjoseph005" />
 </p>
 
+## `GitHub Contribution Graph`
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph005&theme=github&bg_color=000000&line_color=00ff00&point_color=ffff00" alt="GitHub Contribution Graph" />
 </p>
 
