@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Passionate Computer Science Student | Frontend Enthusiast | Lifelong Learner 🌟</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/xUPGcI6mFkFx8ikDT6/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/3oEjHYdoN8LXw5ZF2Y/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/l1J9q5v3HcGFOQ0gA/giphy.gif" width="50" alt="Wave">
+  <img src="https://media.giphy.com/media/3oEjI5XjQh6u1NkqG0/giphy.gif" width="50" alt="Coding">
+  <img src="https://media.giphy.com/media/1iFGx5p5qP4BX4nBB2/giphy.gif" width="50" alt="Learning">
+  <img src="https://media.giphy.com/media/l2JdU8n1GxVee1w2w/giphy.gif" width="50" alt="Gaming">
 </p>
 
 <p align="center">
@@ -29,13 +29,15 @@
 - ⚡ Fun fact: I'm a tech enthusiast who enjoys experimenting with new frameworks, but I also have a **soft spot for retro gaming**.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o6Zt0wN6mcGz8HZG4/giphy.gif" width="100" alt="Focused Coding">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" alt="Teamwork">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Celebration">
 </p>
 
 ---
 
 ### 📫 How to Reach Me:
-- **Email:** josephsebin012@gmail.com
+- **Email:** [josephsebin012@gmail.com](mailto:josephsebin012@gmail.com)
 - **Twitter:** [@sebin_005](https://twitter.com/sebin_005)
 - **Instagram:** [@sebinjoseph05](https://instagram.com/sebinjoseph05)
 - **LinkedIn:** [Sebin Joseph](https://www.linkedin.com/in/sebin-joseph-594370286/)
@@ -44,7 +46,7 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -73,16 +75,16 @@
 
 ---
 
-
 ## `GitHub Stats`
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebinjoseph005&show_icons=true&locale=en&theme=blue-green" alt="sebinjoseph005" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebinjoseph005&theme=blue-green" alt="sebinjoseph005" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="sebinjoseph005" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sebinjoseph005&show_icons=true&locale=en&theme=dracula" alt="sebinjoseph005" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebinjoseph005&theme=dracula" alt="sebinjoseph005" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebinjoseph005&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sebinjoseph005" />
 </p>
 
 ## `GitHub Contribution Graph`
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph005&theme=github&bg_color=000000&line_color=00ff00&point_color=ffff00" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph005&theme=dracula&bg_color=000000&line_color=FF69B4&point_color=FFD700" alt="GitHub Contribution Graph" />
 </p>
+
 
