@@ -54,7 +54,7 @@
 
 <h3 align="left">GitHub Contribution Graph:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph05&theme=radical" alt="GitHub Contribution Graph" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph005&theme=radical" alt="GitHub Contribution Graph" />
 </p>
 
 ---
