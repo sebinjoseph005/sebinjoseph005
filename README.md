@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm <span style="color:#f05454">Sebin Joseph</span></h1>
+ <h1 align="center">Hi there! 👋 I'm <span style="color:#f05454">Sebin Joseph</span></h1>
 <h3 align="center">🚀 Passionate Computer Science Student | Frontend Enthusiast | Lifelong Learner 🌟</h3>
 
 <p align="center">
