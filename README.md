@@ -1,5 +1,9 @@
- <h1 align="center">Hi there! 👋 I'm <span style="color:#f05454">Sebin Joseph</span></h1>
+<h1 align="center">Hi there! 👋 I'm <span style="color:#f05454">Sebin Joseph</span></h1>
 <h3 align="center">🚀 Passionate Computer Science Student | Frontend Enthusiast | Lifelong Learner 🌟</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sebinjoseph005&label=Profile%20Visits&color=brightgreen&style=flat" alt="sebinjoseph005 profile views" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l1J9q5v3HcGFOQ0gA/giphy.gif" width="50" alt="Wave">
@@ -9,7 +13,6 @@
 </p>
 
 <p align="center">
- 
   <a href="https://instagram.com/sebinjoseph05" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -83,5 +86,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebinjoseph005&theme=dracula&bg_color=000000&line_color=FF69B4&point_color=FFD700" alt="GitHub Contribution Graph" />
 </p>
-
 
