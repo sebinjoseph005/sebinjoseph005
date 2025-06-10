@@ -26,7 +26,7 @@
 ### 🌟 About Me:
 - 🌱 Currently diving deep into **JavaScript** and all things **Frontend Development**.
 - 👯 Looking to collaborate on **Frontend-based projects** and **open-source contributions**.
-- 🛠️ Skilled in **HTML**, **CSS**, **JavaScript**, **Java**, **C**, **C++**, **Arduino**, and **Figma**.
+- 🛠️ Skilled in HTML, CSS, JavaScript, React, Java, C, C++, Arduino, Figma, MongoDB, Vercel, and Railway..
 - ⚡ Fun fact: I'm a tech enthusiast who enjoys experimenting with new frameworks, but I also have a **soft spot for retro gaming**.
 
 <p align="center">
